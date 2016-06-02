@@ -1,0 +1,33 @@
+  
+    
+      body {
+        background-color: #FFE;
+
+      }
+      p {
+        color: #FCD;
+      }
+      p#myid {
+        color: #ff0000;
+
+      }
+
+      a {
+        color: #900;
+      }
+
+      a#myid2{
+        color: #500;
+
+      }
+      html {
+      border-style: solid;
+      border-color: black;
+      }
+
+      img{
+      border-style: solid;
+      border-color: black;
+      }
+
+
